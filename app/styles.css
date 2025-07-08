@@ -1,0 +1,57 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-image: url("https://i.pinimg.com/736x/c3/90/14/c39014fe20e7fc0ebca8e04fa954022c.jpg");
+  color: white;
+}
+h1 {
+  font-family: "Jockey One", sans-serif;
+  font-size: 90px;
+  text-align: center;
+}
+h2 {
+  font-family: "Neuton", serif;
+  color: black;
+  background-color: rgb(255, 248, 227);
+  margin-right: 10px;
+  margin-left: 10px;
+}
+p {
+  font-family: "Neuton", serif;
+  font-size: 20px;
+  margin-right: 80px;
+  margin-left: 80px;
+}
+#title {
+  width: 80%;
+  height: 80%;
+  margin: 20px 150px 40px 150px;
+}
+img {
+  margin: 30px 20px;
+  width: 30%;
+  height: 30%;
+}
+a:link,
+a:visited {
+  background-color: rgb(130, 62, 255);
+  font-family: "Neuton", serif;
+  font-size: 40px;
+  color: rgb(255, 255, 255);
+  border: 2px solid rgb(255, 255, 255);
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 100%;
+  top: 50px;
+  bottom: 90px;
+}
+
+a:hover,
+a:active {
+  background-color: rgb(0, 255, 255);
+  color: rgb(33, 24, 114);
+}
